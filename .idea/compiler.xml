@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="java12seed.main" target="12" />
+      <module name="java12seed.test" target="12" />
+      <module name="steuerfusszh.main" target="12" />
+      <module name="steuerfusszh.test" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
